@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1349px" height="414px" viewBox="0 0 1349 414" enable-background="new 0 0 1349 414" xml:space="preserve">
+<path fill="#FFFFFF" d="M18,0h130c8.284,0,15,6.716,15,15v187c0,8.284-6.716,15-15,15H18c-8.284,0-15-6.716-15-15V15
+	C3,6.716,9.716,0,18,0z"/>
+<path fill="none" stroke="#EFEFEF" stroke-width="7" d="M18,3.5h130c6.351,0,11.5,5.149,11.5,11.5v187c0,6.352-5.149,11.5-11.5,11.5
+	H18c-6.351,0-11.5-5.148-11.5-11.5V15C6.5,8.649,11.649,3.5,18,3.5z"/>
+<text transform="matrix(1 0 0 1 0.2461 216)" opacity="0.1" fill="#8B8580" enable-background="new    " font-family="'OracleSans-Bold'" font-size="159">1</text>
+<text transform="matrix(1 0 0 1 47.7651 145)" fill="#E6AC58" font-family="'OracleSans-Bold'" font-size="18">Validate </text>
+<text transform="matrix(1 0 0 1 71.7139 172)" fill="#E6AC58" font-family="'OracleSans-Bold'" font-size="18">SR</text>
+<path id="Rectangle_34" fill="#E6AC58" d="M18,7h130c4.418,0,8,3.582,8,8v72l0,0H10l0,0V15C10,10.582,13.582,7,18,7z"/>
+<text transform="matrix(1 0 0 1 63 67)" fill="#FFFFFF" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<path fill="#FFFFFF" d="M212.114,0h130c8.284,0,15,6.716,15,15v187c0,8.284-6.716,15-15,15h-130c-8.285,0-15-6.716-15-15V15
+	C197.114,6.716,203.83,0,212.114,0z"/>
+<path fill="none" stroke="#EFEFEF" stroke-width="7" d="M212.114,3.5h130c6.351,0,11.5,5.149,11.5,11.5v187
+	c0,6.352-5.149,11.5-11.5,11.5h-130c-6.352,0-11.5-5.148-11.5-11.5V15C200.614,8.649,205.763,3.5,212.114,3.5z"/>
+<path id="Path_47" opacity="0.1" fill="#8B8580" enable-background="new    " d="M199.969,210.736
+	C197.076,206.563,197,200.3,197,200.3l28.938-31.8c5.618-6.148,9.991-11.156,13.118-15.025c2.57-3.023,4.784-6.331,6.6-9.858
+	c1.184-2.346,1.835-4.925,1.908-7.552c-0.001-9.643-6.097-14.465-18.287-14.465c-8.586,0-18.338,2.915-29.256,8.745v-21.306
+	c5.133-2.6,10.548-4.601,16.139-5.963c5.536-1.401,11.222-2.121,16.933-2.146c12.296,0,21.836,2.809,28.62,8.427
+	c6.784,5.618,10.176,13.621,10.176,24.009c-0.024,4.364-0.888,8.682-2.544,12.72c-2.179,5.073-4.983,9.854-8.348,14.23
+	c-3.867,5.248-9.087,11.528-15.661,18.842l-16.059,17.649h42.93V217h-63.638C208.569,217,202.861,214.91,199.969,210.736z"/>
+<text transform="matrix(1 0 0 1 241.9419 145)" fill="#C74634" font-family="'OracleSans-Bold'" font-size="18">Allocate </text>
+<text transform="matrix(1 0 0 1 266.395 172)" fill="#C74634" font-family="'OracleSans-Bold'" font-size="18">SE</text>
+<path id="Rectangle_35" fill="#C74634" d="M212,7h130c4.418,0,8,3.582,8,8v72l0,0H204l0,0V15C204,10.582,207.582,7,212,7z"/>
+<text transform="matrix(1 0 0 1 257 67)" fill="#FFFFFF" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<path fill="#FFFFFF" d="M405,0h130c8.284,0,15,6.716,15,15v187c0,8.284-6.716,15-15,15H405c-8.284,0-15-6.716-15-15V15
+	C390,6.716,396.716,0,405,0z"/>
+<path fill="none" stroke="#EFEFEF" stroke-width="7" d="M405,3.5h130c6.352,0,11.5,5.149,11.5,11.5v187
+	c0,6.352-5.148,11.5-11.5,11.5H405c-6.352,0-11.5-5.148-11.5-11.5V15C393.5,8.649,398.648,3.5,405,3.5z"/>
+<path id="Path_48" opacity="0.1" fill="#8B8580" enable-background="new    " d="M391.56,208.51
+	c-0.753-1.519-1.435-3.194-1.435-3.194v-16.551c4.769,2.487,9.847,4.332,15.1,5.486c5.368,1.282,10.864,1.949,16.383,1.987
+	c7.525,0,13.303-1.537,17.33-4.611c4.028-3.074,6.043-7.474,6.043-13.2c0-5.406-1.564-9.593-4.691-12.561
+	c-3.127-2.968-7.712-4.451-13.753-4.449c-5.546,0.006-11.043,1.03-16.218,3.021l-7.791-13.038l28.62-30.21h-40.955V101h72.437
+	v16.377l-27.348,27.981c10.279,1.166,18.202,4.744,23.77,10.732c5.567,5.989,8.35,13.489,8.348,22.5
+	c0,7.95-1.803,14.814-5.406,20.591c-3.721,5.877-9.122,10.502-15.502,13.275c-6.73,3.074-14.707,4.61-23.93,4.61
+	c-5.878,0.018-11.741-0.596-17.489-1.828c-4.1-0.868-8.099-2.156-11.935-3.844C392.283,211.018,392.313,210.029,391.56,208.51z"/>
+<text transform="matrix(1 0 0 1 405.5771 142)" fill="#41817E" font-family="'OracleSans-Bold'" font-size="18">SR Execution / </text>
+<text transform="matrix(1 0 0 1 438.166 169)" fill="#41817E" font-family="'OracleSans-Bold'" font-size="18">Review</text>
+<path id="Rectangle_36" fill="#41817E" d="M404,7h130c4.418,0,8,3.582,8,8v72l0,0H396l0,0V15C396,10.582,399.582,7,404,7z"/>
+<text transform="matrix(1 0 0 1 449 67)" fill="#FFFFFF" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<path fill="#FFFFFF" d="M603,0h130c8.284,0,15,6.716,15,15v187c0,8.284-6.716,15-15,15H603c-8.284,0-15-6.716-15-15V15
+	C588,6.716,594.716,0,603,0z"/>
+<path fill="none" stroke="#EFEFEF" stroke-width="7" d="M603,3.5h130c6.352,0,11.5,5.149,11.5,11.5v187
+	c0,6.352-5.148,11.5-11.5,11.5H603c-6.352,0-11.5-5.148-11.5-11.5V15C591.5,8.649,596.648,3.5,603,3.5z"/>
+<text transform="matrix(1 0 0 1 583.5181 217)" opacity="0.1" fill="#8B8580" enable-background="new    " font-family="'OracleSans-Bold'" font-size="159">4</text>
+<text transform="matrix(1 0 0 1 644.501 145)" fill="#AE562C" font-family="'OracleSans-Bold'" font-size="18">Track </text>
+<text transform="matrix(1 0 0 1 643.25 172)" fill="#AE562C" font-family="'OracleSans-Bold'" font-size="18">Effort</text>
+<path id="Rectangle_37" fill="#AE562C" d="M603,7h130c4.418,0,8,3.582,8,8v72l0,0H595l0,0V15C595,10.582,598.582,7,603,7z"/>
+<text transform="matrix(1 0 0 1 648 67)" fill="#FFFFFF" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<path fill="#FFFFFF" d="M797,0h130c8.284,0,15,6.716,15,15v187c0,8.284-6.716,15-15,15H797c-8.284,0-15-6.716-15-15V15
+	C782,6.716,788.716,0,797,0z"/>
+<path fill="none" stroke="#EFEFEF" stroke-width="7" d="M797,3.5h130c6.352,0,11.5,5.149,11.5,11.5v187
+	c0,6.352-5.148,11.5-11.5,11.5H797c-6.352,0-11.5-5.148-11.5-11.5V15C785.5,8.649,790.648,3.5,797,3.5z"/>
+<path id="Path_49" opacity="0.1" fill="#8B8580" enable-background="new    " d="M783.983,208.15L782,203.194v-14.429
+	c4.984,2.444,10.242,4.286,15.662,5.485c5.498,1.292,11.126,1.959,16.773,1.988c6.784,0,12.138-1.59,16.06-4.77
+	c3.922-3.18,5.883-7.526,5.883-13.038c0-5.3-1.616-9.434-4.849-12.4c-3.232-2.967-7.817-4.452-13.754-4.454
+	c-7.306,0.092-14.51,1.717-21.147,4.77l-13.992-10.971L789.314,101h62.805v20.19h-45l-2.862,24.8
+	c5.31-1.89,10.903-2.857,16.539-2.858c11.767,0,21.041,3.154,27.825,9.461c6.784,6.308,10.176,14.974,10.176,26
+	c0.165,7.114-1.652,14.133-5.247,20.273c-3.549,5.823-8.714,10.49-14.866,13.434c-6.412,3.181-13.912,4.771-22.5,4.771
+	c-6.329,0.023-12.644-0.617-18.84-1.911c-3.746-0.774-7.422-1.86-10.986-3.249C784.993,211.375,783.983,208.15,783.983,208.15z"/>
+<text transform="matrix(1 0 0 1 825.3965 158)" fill="#8B42E9" font-family="'OracleSans-Bold'" font-size="18">Close SR</text>
+<path id="Rectangle_38" fill="#8B42E9" d="M797.206,7h130c4.418,0,8,3.582,8,8v72l0,0h-146l0,0V15
+	C789.206,10.582,792.788,7,797.206,7z"/>
+<text transform="matrix(1 0 0 1 842 67)" fill="#FFFFFF" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<path fill="#FFFFFF" d="M996,0h130c8.284,0,15,6.716,15,15v187c0,8.284-6.716,15-15,15H996c-8.284,0-15-6.716-15-15V15
+	C981,6.716,987.716,0,996,0z"/>
+<path fill="none" stroke="#EFEFEF" stroke-width="7" d="M996,3.5h130c6.352,0,11.5,5.149,11.5,11.5v187
+	c0,6.352-5.148,11.5-11.5,11.5H996c-6.352,0-11.5-5.148-11.5-11.5V15C984.5,8.649,989.648,3.5,996,3.5z"/>
+<text transform="matrix(1 0 0 1 975.4258 215)" opacity="0.1" fill="#8B8580" enable-background="new    " font-family="'OracleSans-Bold'" font-size="159">6</text>
+<text transform="matrix(1 0 0 1 1025.7734 131)" fill="#2C5967" font-family="'OracleSans-Bold'" font-size="18">Request </text>
+<text transform="matrix(1 0 0 1 1012.5439 158)" fill="#2C5967" font-family="'OracleSans-Bold'" font-size="18">Feedback / </text>
+<text transform="matrix(1 0 0 1 1041.9473 185)" fill="#2C5967" font-family="'OracleSans-Bold'" font-size="18">AAR</text>
+<path id="Rectangle_39" fill="#2C5967" d="M996,7h130c4.418,0,8,3.582,8,8v72l0,0H988l0,0V15C988,10.582,991.582,7,996,7z"/>
+<text transform="matrix(1 0 0 1 1041 67)" fill="#FFFFFF" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<path fill="#FFFFFF" d="M1195,0h130c8.284,0,15,6.716,15,15v187c0,8.284-6.716,15-15,15h-130c-8.284,0-15-6.716-15-15V15
+	C1180,6.716,1186.716,0,1195,0z"/>
+<path fill="none" stroke="#EFEFEF" stroke-width="7" d="M1195,3.5h130c6.352,0,11.5,5.149,11.5,11.5v187
+	c0,6.352-5.148,11.5-11.5,11.5h-130c-6.352,0-11.5-5.148-11.5-11.5V15C1183.5,8.649,1188.648,3.5,1195,3.5z"/>
+<text transform="matrix(1 0 0 1 1174.9238 217)" opacity="0.1" fill="#8B8580" enable-background="new    " font-family="'OracleSans-Bold'" font-size="159">7</text>
+<text transform="matrix(1 0 0 1 1224.458 143)" fill="#67605B" font-family="'OracleSans-Bold'" font-size="18">Manage </text>
+<text transform="matrix(1 0 0 1 1211.8398 170)" fill="#67605B" font-family="'OracleSans-Bold'" font-size="18">Re-usables</text>
+<path id="Rectangle_41" fill="#67605B" d="M1195,7h130c4.418,0,8,3.582,8,8v72l0,0h-146l0,0V15C1187,10.582,1190.582,7,1195,7z"/>
+<text transform="matrix(1 0 0 1 1240 67)" fill="#FFFFFF" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<text transform="matrix(1 0 0 1 153 155)" fill="#8B8580" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<text transform="matrix(1 0 0 1 347 155)" fill="#8B8580" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<text transform="matrix(1 0 0 1 540 155)" fill="#8B8580" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<text transform="matrix(1 0 0 1 738 155)" fill="#8B8580" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<text transform="matrix(1 0 0 1 932 155)" fill="#8B8580" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<text transform="matrix(1 0 0 1 1131 155)" fill="#8B8580" font-family="'SegoeMDL2Assets'" font-size="40"></text>
+<path id="Path_50" fill="none" stroke="#94AFAF" stroke-width="6" d="M281.698,246.132v42.813h-88.961l-7.428,10.554l-8.031-10.554
+	h-93.78v-42.813"/>
+<path id="Path_53" fill="none" stroke="#94AFAF" stroke-width="6" d="M1334.698,246.132v42.813h-60.961l-7.429,10.554l-8.03-10.554
+	h-72.78v-42.813"/>
+<path id="Path_52" fill="none" stroke="#94AFAF" stroke-width="6" d="M1065.698,246.132v42.813H776.737l-7.429,10.554l-8.03-10.554
+	h-289.78v-42.813"/>
+<a href="www.oracle.com">
+<path id="Rectangle_42-2" fill="#0090BE" d="M89,331h186c3.866,0,7,3.134,7,7v57c0,3.866-3.134,7-7,7H89c-3.866,0-7-3.134-7-7v-57
+	C82,334.134,85.134,331,89,331z"/>
+<text transform="matrix(1 0 0 1 145.7471 360)" fill="#FFFFFF" font-family="'OracleSans-SemiBold'" font-size="17">Resource</text>
+<text transform="matrix(1 0 0 1 129.2568 383)" fill="#FFFFFF" font-family="'OracleSans-SemiBold'" font-size="17">Management</text>
+</a>
+<a href="my.oracle.com">
+<path id="Rectangle_45-2" fill="#0090BE" d="M678,331h186c3.866,0,7,3.134,7,7v57c0,3.866-3.134,7-7,7H678c-3.866,0-7-3.134-7-7v-57
+	C671,334.134,674.134,331,678,331z"/>
+<text transform="matrix(1 0 0 1 742.3555 360)" fill="#FFFFFF" font-family="'OracleSans-SemiBold'" font-size="17">Quality</text>
+<text transform="matrix(1 0 0 1 718.2568 383)" fill="#FFFFFF" font-family="'OracleSans-SemiBold'" font-size="17">Management</text>
+</a>
+<a href="people.oracle.com">
+<path id="Rectangle_46-2" fill="#0090BE" d="M1192,331h141c3.866,0,7,3.134,7,7v57c0,3.866-3.134,7-7,7h-141c-3.866,0-7-3.134-7-7
+	v-57C1185,334.134,1188.134,331,1192,331z"/>
+<text transform="matrix(1 0 0 1 1217.8701 360)" fill="#FFFFFF" font-family="'OracleSans-SemiBold'" font-size="17">Knowledge </text>
+<text transform="matrix(1 0 0 1 1211.2568 383)" fill="#FFFFFF" font-family="'OracleSans-SemiBold'" font-size="17">Management</text>
+</a>
+</svg>
